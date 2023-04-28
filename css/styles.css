@@ -1,0 +1,144 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Bruno Ace SC', cursive;
+    color:  rgb(255, 174, 0);
+
+}
+
+#hero{
+    background-color: #2B2B28;
+    padding: 5% 5%;
+    font-size: 2rem;
+
+
+}
+#hero h1{
+    font-size: 3rem;
+
+}
+#hero p{
+    padding-bottom: 40px;
+}
+.icon-main{
+    color:  rgb(255, 174, 0);
+    text-align: center;
+    padding-top: 10%;
+    top: 100px;
+}
+.buttons-main{
+
+    padding:2% 20%;
+    font-size: 1.2rem;
+    
+}
+.buttons-main:hover{
+    background-color:  rgb(255, 174, 0);
+
+}
+.fa-padd{
+    padding-right:5px;
+}
+
+/* Navigation Bar */
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding:0 18px;
+
+}
+.nav-link{
+    font-size: 1.4rem;
+    font-family: 'Bruno Ace SC', cursive;
+    color:  rgb(255, 174, 0);
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+
+}
+.navbar{
+    margin: 0 -12px;
+}
+
+
+/* Resume */
+
+#resume{
+    background-color: #4A4A48;
+    padding: 6% 7% 6%;
+}
+#resume p{
+    line-height: 1.5;
+}
+
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 10px;
+    width: 15%;
+    margin-left: 40%;
+}
+
+/* Projects */
+
+#projects{
+    background-color: #2B2B28;
+    padding:0 3%;
+    text-align: center;
+
+}
+.carousel-image{
+    width: 70%;
+    margin:20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.fa-project{
+    padding-left: 1%;
+}
+td{
+    padding-left: 5px;
+}
+th{
+    font-size:1.2rem;
+}
+.table{
+    color: white;
+}
+table table td:hover{
+    transform: rotate(5deg);
+    background-color: rgb(255, 174, 0);
+}
+
+
+
+/* Contact-Me */
+#contact-me{
+    background-color: #4A4A48;
+    padding: 2% 3%;
+
+}
+.details{
+    padding-left: 20%;
+}
+.details .table{
+    padding-left:3%;
+}
+.details table tbody:hover{
+    transform: rotate(5deg);
+    background-color: rgb(255, 174, 0);
+}
+/* Footer */
+#footer{
+    background-color: #2B2B28;
+    text-align: center;
+    font-size: x-small;
+}
