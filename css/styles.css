@@ -30,11 +30,10 @@ h1,h2,h3,h4,h5,h6{
     padding-top: 10%;
     top: 100px;
 }
-.buttons-main{
-
-    padding:2% 20%;
-    font-size: 1.2rem;
-    
+.btn{
+    width: 100%;
+    padding:2.5% 0;
+    font-size: 1.2rem;  
 }
 .buttons-main:hover{
     background-color:  rgb(255, 174, 0);
@@ -142,3 +141,4 @@ table table td:hover{
     text-align: center;
     font-size: x-small;
 }
+
